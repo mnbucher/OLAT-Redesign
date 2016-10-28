@@ -1,5 +1,7 @@
 # OLAT 10.0 (UZH) Polishing
 
+![This is how the new amazing OLAT Redesign will look like on your Browser](https://www.tinystudio.ch/_img/newolat.png)
+
 ## Introduction
 
 This project was initially founded due to *incomprehension* about the new User Interface of the updated Learning Management System (LMS) developed by the University of Zurich (UZH). 
