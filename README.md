@@ -22,10 +22,10 @@ Safari: http://sobolev.us/stylish/
 1. Go to the settings of the Add-on (the name of the menu item depends on your Add-on version of Stylish).
 2. Edit / write a new style
 3. Copy & Paste the following code snippet [HERE](https://raw.githubusercontent.com/mnbucher/olat/master/olatPolishing.scss)
-4. under «Applies to» select «URL» or «URL Prefix» (see below) and type in the following ones (without « or »):
-- (URL) «https://www.olat.uzh.ch»
-- (URL) «https://lms.uzh.ch»
-- (URL Prefix) «https://lms.uzh.ch»
+4. under «Applies to» select «URL» or «URL Prefix» (see below) and type in the following ones:
+- (URL) https://www.olat.uzh.ch
+- (URL) https://lms.uzh.ch
+- (URL Prefix) https://lms.uzh.ch
 
 ### Step 3
 
