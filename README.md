@@ -9,7 +9,26 @@ So with this in mind, we have the approach, to clean up this messy platform to m
 
 ## Installation
 
-Following in the next few weeks...
+### Step 1:
+
+Get the «Stylish» Add-on for your Browser and install it.
+
+Chrome: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=de
+Safari: http://sobolev.us/stylish/
+
+### Step 2: 
+
+1. Go to the settings of the Add-on (the name of the menu item depends on your Add-on version of Stylish).
+2. Edit / write a new style
+3. Copy & Paste the following code snippet [HERE](https://raw.githubusercontent.com/mnbucher/olat/master/olatPolishing.scss)
+4. under «Applies to» select «URL» or «URL Prefix» (see below) and type in the following ones:
+- (URL) https://www.olat.uzh.ch
+- (URL) https://lms.uzh.ch
+- (URL Prefix) https://lms.uzh.ch
+
+### Step 3
+
+YOU'RE DONE! 👍🏼🎉
 
 ## Contributors
 
