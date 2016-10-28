@@ -14,6 +14,7 @@ So with this in mind, we have the approach, to clean up this messy platform to m
 Get the «Stylish» Add-on for your Browser and install it.
 
 Chrome: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=de
+
 Safari: http://sobolev.us/stylish/
 
 ### Step 2: 
