@@ -9,6 +9,18 @@ See [here](https://en.wikipedia.org/wiki/OLAT) for more details about OLAT. The 
 
 So with this in mind, we have the approach, to clean up this messy platform to make it a much more asthetic place with less overloaded content and to polish the whole User Interface. As students, we daily spend a lot of time on this platform. So we want to make this thing a more beeautiful place.
 
+## Things we changed
+
+* Whole new Login Page with cool hover effect 😎
+* Simpler Navigation (We removed some unnecessary elements in the navigation, most of them are also reachable at the sidebar on the right)
+* There is a max-width for the whole webapp for better readability and structure
+* Minor UI / Design changes
+* Changed typeface to System's Font for better readability
+  * macOS: San Francisco
+  * Android: Roboto
+  * Microsoft: Segoe UI
+  * Linux: Ubuntu
+
 ## Installation
 
 ### Step 1:
