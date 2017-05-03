@@ -39,6 +39,7 @@ Safari: http://sobolev.us/stylish/
 4. under «Applies to» select «URL» or «URL Prefix» (see below) and type in the following ones:
 - (URL) https://www.olat.uzh.ch
 - (URL) https://lms.uzh.ch
+- (URL) https://lms.uzh.ch/dmz/
 - (URL Prefix) https://lms.uzh.ch
 
 ### Step 3
