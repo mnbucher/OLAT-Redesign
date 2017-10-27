@@ -1,6 +1,6 @@
 # OLAT 10.0 (UZH) Polishing
 
-![This is how the new amazing OLAT Redesign will look like on your Browser](https://www.tinystudio.ch/_img/newolat.png)
+![This is how the new amazing OLAT Redesign will look like on your Browser](https://www.tinystudio.ch/docs/newolat.png)
 
 ## Introduction
 
