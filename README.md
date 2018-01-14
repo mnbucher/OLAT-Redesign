@@ -7,7 +7,7 @@
 This project was initially founded due to *incomprehension* about the User Interface of the updated Learning Management System (LMS) developed by the University of Zurich (UZH). 
 See [here](https://en.wikipedia.org/wiki/OLAT) for more details about OLAT. The new version of the platform was published over the summer 2016 and not only the new UI is extremely ugly, but there are also some very bad UX practices.
 
-With this in mind, we had the approach to clean up the messy platform to make it a tidier place with a reduced UI. At least we tried to make it a bit sexier. As students, we spend so many hours on this platform (daily). Our approach tries to make it aesthetically more enjoyable.
+With this in mind, we had the approach to clean up the messy platform to make it a tidier place with a reduced UI. At least we want to make OLAT *a bit sexier*. As students, we spend so many hours on this platform (daily). Our approach tries to make it aesthetically more enjoyable.
 
 ## Things we changed
 
