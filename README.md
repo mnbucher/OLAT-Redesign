@@ -1,4 +1,4 @@
-# OLAT (UZH) Redesign
+# OLAT Redesign (UZH)
 
 ![This is how the new amazing OLAT Redesign will look like on your Browser](https://www.tinystudio.ch/docs/newolat.png)
 
