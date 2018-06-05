@@ -1,0 +1,220 @@
+/*
+
+OLAT 10.0 (UZH) POLISHING
+
+Contributors:
+Martin Bucher (@mnbucher)
+
+Licencse: This source code is licensed under the Apache License.
+
+*/
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+  font-weight: 400;
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
+  color: rgba(0, 0, 0, 0.8);
+  /* DROPBOX COLOR: #f7f9fa */
+}
+
+/* SIZES, PADDINGS AND MARGINS  */
+.o_container_offcanvas {
+  max-width: 1100px !important;
+}
+
+/*
+#o_main_wrapper,
+#o_main_container,
+#o_main_center,
+#o_main_center_content {
+	padding: 0.5em 3em !important;
+}*/
+#o_main_left.ui-resizable {
+  padding-top: 1.5em;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.o_table_row_count {
+  display: none;
+}
+
+div.col-sm-3.col-xs-8 {
+  width: 100%;
+  padding: 1.5em 15px;
+}
+
+div#o_main_center_content_inner {
+  padding-left: 2em;
+  padding-top: 1.5em;
+}
+
+/* NAVIGATION */
+#o_navbar_wrapper {
+  border-bottom: none !important;
+  padding: 0.5em 0;
+  background: none !important;
+  margin-bottom: 3em;
+  background: #FFFFFF;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.15);
+}
+
+.o_navbar-brand {
+  background-size: 70%;
+  background-position: center center;
+}
+
+.o_navbar-nav > .active > a, .o_navbar-nav > .active > a:hover {
+  font-weight: normal;
+}
+
+.o_navbar-nav > li > a {
+  color: rgba(0, 0, 0, 0.44);
+}
+
+#o_share,
+li#o_navbar_imclient.o_navbar_tool,
+li#o_navbar_help.o_navbar_tool,
+li#o_navbar_print.o_navbar_tool {
+  display: none;
+}
+
+img.o_portrait_avatar_small {
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+}
+
+li#o_navbar_my_menu.o_portrait {
+  margin-left: 1em;
+}
+
+.o_navbar #o_navbar_tools_personal .o_navbar_tool a,
+.o_navbar #o_navbar_tools_permanent .o_navbar_tool a {
+  padding-right: 0.75em;
+  padding-left: 0.75em;
+}
+
+li#o_navbar_search_opener.o_navbar_tool.dropdown {
+  margin-right: 0;
+}
+
+.o_navbar-collapse {
+  padding: 0;
+}
+
+/* FOOTER */
+#o_footer_container, #o_footer_wrapper {
+  background: none !important;
+  color: #b2b2b2 !important;
+}
+
+#o_footer_wrapper a {
+  color: #b2b2b2;
+}
+
+a#o_footer_uzh,
+div.o_infomessage_wrapper.o_block_large.o_scrollblock {
+  display: none;
+}
+
+.o_navbar .o_navbar_tabs li {
+  max-width: 200px !important;
+}
+
+body.o_dmz #o_bg {
+  background: none !important;
+  background-color: #f2f2f2 !important;
+}
+
+body.o_dmz #o_bg:after {
+  background: none !important;
+}
+
+#o_footer_user {
+  left: 0;
+}
+
+#o_footer_olatplus {
+  right: 0;
+  text-align: right;
+}
+
+#o_footer_impressum {
+  display: none;
+}
+
+/* LOGIN  */
+.o_login .o_login_intro h1 {
+  margin-bottom: 1.5em;
+  margin-top: 1em;
+  font-weight: 300;
+  font-size: 2.5em;
+  letter-spacing: 0.03125em;
+  color: #333;
+}
+
+.o_login .o_login_providers, .o_login .o_login_provider {
+  box-shadow: none !important;
+}
+
+.o_login_box_wrapper {
+  padding: 0 !important;
+}
+
+.o_login .o_login_box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding-top: 0 !important;
+  border-radius: 8px;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.o_login .o_login_box:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.1), 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.o_login_box_wrapper {
+  padding: 4em 0;
+  overflow: visible;
+}
+
+.o_login .o_login_providers {
+  margin-bottom: 0 !important;
+}
+
+.o_login .o_login_provider {
+  padding: 1em;
+}
+
+.o_login .o_login_messages, .o_login .o_login_box {
+  width: 500px;
+}
+
+input#wayf_submit_button.btn.btn-primary.o_small {
+  margin-top: 1em !important;
+  font-size: 1em;
+  font-weight: 600;
+  border-radius: 3px;
+  padding: 0.75em 2em;
+}
+
+/* SET BORDER-RADIUS TO CERTAIN ELEMENTS */
+div.o_segments.btn-group.btn-group-justified,
+.o_tree,
+.o_toolbar {
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=olatpolishing.css.map */
