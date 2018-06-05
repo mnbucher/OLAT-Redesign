@@ -34,7 +34,7 @@ Safari: http://sobolev.us/stylish/
 
 1. Go to the settings of the Add-on (On Safari: Click on the «S» in the menubar and then click on «Manage»)
 2. Edit / Write a new style
-3. Copy and Paste the following code snippet [HERE](https://raw.githubusercontent.com/mnbucher/olat/master/olatPolishing.scss)
+3. Copy and Paste the following code snippet [HERE](https://raw.githubusercontent.com/mnbucher/olat/master/olatpolishing.scss)
 4. Under «Applies to» select «URL» or «URL Prefix» (see below) and type in the following ones:
 - (URL) https://www.olat.uzh.ch
 - (URL) https://lms.uzh.ch
